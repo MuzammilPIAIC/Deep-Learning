@@ -1,0 +1,18 @@
+||| All commands run in cmd ||||
+
+
+first run this command
+app\Scripts\activate
+
+if you want to train your data so run this command and if your training already done so skip this
+python offline.py
+
+
+run this command for using the system it will host on your local machine and give you a ip address 
+where you can use this
+
+python server.py
+
+
+Regard
+Muzammil

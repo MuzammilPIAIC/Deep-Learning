@@ -1,0 +1,10 @@
+attrs==21.2.0
+brotlipy==0.7.0
+certifi==2021.5.30
+conda==4.10.3
+mediapipe==0.8.6.1
+menuinst==1.4.16
+opencv-contrib-python==4.5.3.56
+pycosat==0.6.3
+pywin32==228
+wincertstore==0.2
